@@ -101,3 +101,5 @@ class BinarySearchTree {
     return this.magnitude
   }
 }
+
+module.exports = BinarySearchTree
